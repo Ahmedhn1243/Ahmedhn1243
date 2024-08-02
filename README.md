@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ahmed hussain</h1>
-<h3 align="center">A passionate flutter developer from India</h3>
+<h3 align="center">A passionate web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedhn1243&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedhn1243" /> </p>
 
 <p align="left"> <a href="https://twitter.com/hussaimahmed" target="blank"><img src="https://img.shields.io/twitter/follow/hussaimahmed?logo=twitter&style=for-the-badge" alt="hussaimahmed" /></a> </p>
 
-- 🔭 I’m currently working on **flutter projects**
+- 🔭 I’m currently working on **Python and django **
 
-- 🌱 I’m currently learning **Android , Flutter , Dart , Ds&Algo.**
+- 🌱 I’m currently learning **Web development  , Java , DRF , Ds&Algo.**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ahmed-hussain-a9a9a6228/](https://www.linkedin.com/in/ahmed-hussain-a9a9a6228/)
 
-- 💬 Ask me about **Android ,flutter , Dart, Dsa and SQL.**
+- 💬 Ask me about **Programmig ,Python, Django, Algorithms and SQL.**
 
 - 📫 How to reach me **ahmedhn400@gmail.com**
 
